@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1747066751 source:c:\users\elitebook\desktop\tpp\c+\appel\imp.cpp
+	"appel.h"
+
+1747068578 c:\users\elitebook\desktop\tpp\c+\appel\appel.h
+	<iostream>
+	<string>
+
+1747066763 source:c:\users\elitebook\desktop\tpp\c+\appel\main.cpp
+	"appel.h"
+
